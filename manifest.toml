@@ -2,8 +2,8 @@
 
 packaging_format = 2
 
-id = "outline-server "
-name = "Outline Server "
+id = "outline-server"
+name = "Outline Server"
 
 description.en = "Proxy server that runs a Shadowsocks instance"
 description.fr = "Serveur proxy qui exécute une instance Shadowsocks"
@@ -21,9 +21,9 @@ code = "https://github.com/Jigsaw-Code/outline-server"
 [integration]
 yunohost = '>= 11.2.30'
 helpers_version = "2.1"
-architectures = "all" 
+architectures = "all"
 multi_instance = true
-ldap = "false" 
+ldap = "false"
 sso = "false"
 disk = "50M"
 ram.build = "50M"

@@ -10,6 +10,7 @@ source /usr/share/yunohost/helpers
 ynh_script_progression "Installing NodeJS..."
 
 ynh_nodejs_install
+ynh_go_install
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
