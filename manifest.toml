@@ -15,7 +15,6 @@ maintainers = ["eric_G"]
 [upstream]
 license = "Apache-2.0"
 website = "https://www.getoutline.org/"
-
 code = "https://github.com/Jigsaw-Code/outline-server"
 
 [integration]
